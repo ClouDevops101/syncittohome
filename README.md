@@ -1,7 +1,7 @@
 syncittohome.sh
 =============
 
-A basic shell script that transfert Data in a defined bandwith on a defined hour
+A basic shell script that transferting Data in a defined bandwith on a defined hour
 
 ![syncittohome.sh](http://pierre-luc-delisle.com/wp-content/uploads/terminal1.png)
 
@@ -80,5 +80,3 @@ Usage
     optional arguments:
        not for yet
 ```
-
-
