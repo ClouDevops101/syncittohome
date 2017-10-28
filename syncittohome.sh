@@ -12,8 +12,8 @@ TO_FOLDER=/DATA/Movie/
 while true
 h=`date +%H`
 
-  # entre 08 et 23  = 200
-  # entre 23 et 08
+  # between 08 and 23  = 200
+  # between 23 and 08
 
 	if  [ $h -gt 00 ]  && [ $h -lt 07 ] ; then
   		echo "full BW"
