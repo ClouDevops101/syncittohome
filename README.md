@@ -4,7 +4,7 @@
 syncittohome.sh
 =============
 
-A basic shell script that transferting Data in a defined bandwith on a defined hour
+A basic shell script that transferting Data basicaly downloaded movie as they come in a defined bandwith hour dependent
 
 ![syncittohome.sh](http://pierre-luc-delisle.com/wp-content/uploads/terminal1.png)
 
