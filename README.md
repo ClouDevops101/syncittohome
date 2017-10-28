@@ -1,3 +1,6 @@
+<a href="http://bitly.com/2grT54q"><img src="https://cdn.codementor.io/badges/i_am_a_codementor_dark.svg" alt="I am a codementor" style="max-width:100%"/></a> 
+ [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WX4EKLLLV49WG)
+
 syncittohome.sh
 =============
 
@@ -5,20 +8,12 @@ A basic shell script that transferting Data in a defined bandwith on a defined h
 
 ![syncittohome.sh](http://pierre-luc-delisle.com/wp-content/uploads/terminal1.png)
 
+The script takes three argument the full banwith the low one and the sleep between
 
 ```bash
-    isPrimes <- function(n) {
-      if ((n %% 2) == 0 ||  (n %% 3) == 0 || (n %% 5) == 0  || (n %% 7) == 0 ) {
-          return (0)
-      } else {
-          return (n)
-      }
-
-  }
+syncittohome.sh 500 200 3
 ```
-FULL_BW=$1
-LOW_BW=$2
-SLEEP=$3
+
 
 
 
