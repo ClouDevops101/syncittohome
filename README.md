@@ -6,6 +6,22 @@ A basic shell script that transferting Data in a defined bandwith on a defined h
 ![syncittohome.sh](http://pierre-luc-delisle.com/wp-content/uploads/terminal1.png)
 
 
+```bash
+    isPrimes <- function(n) {
+      if ((n %% 2) == 0 ||  (n %% 3) == 0 || (n %% 5) == 0  || (n %% 7) == 0 ) {
+          return (0)
+      } else {
+          return (n)
+      }
+
+  }
+```
+FULL_BW=$1
+LOW_BW=$2
+SLEEP=$3
+
+
+
 
 This script take 3 argument as input :
 ex :
